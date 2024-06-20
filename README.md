@@ -120,5 +120,3 @@ Watch Usage
 - Para desconectar o debugger rodar `Shift F5` no VSCode
 
 https://jestjs.io/docs/ecmascript-modules
-# tajs-method
-# tajs-method
